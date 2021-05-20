@@ -1,0 +1,20 @@
+{
+  "name": "randompicbot",
+  "version": "1.0.0",
+  "description": "Discord Sending Pics Bot",
+  "main": "random.pic.bot.js",
+  "dependencies": {
+    "discord.js": "^12.5.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "discord-js"
+  ],
+  "author": "Stan P",
+  "license": "ISC"
+}
